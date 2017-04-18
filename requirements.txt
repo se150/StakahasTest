@@ -1,4 +1,4 @@
-ipyrhon[notebook]
+ipython[notebook]
 twitter
 wordcloud
 matplotlib
