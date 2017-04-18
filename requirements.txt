@@ -1,0 +1,6 @@
+ipyrhon[notebook]
+twitter
+wordcloud
+matplotlib
+pillow
+watson-developer-cloud
